@@ -31,4 +31,4 @@
 //git remote rm (name remote repository) - delete remote repository
 
 //Надіслати всі гілки у віддалений репозиторій:	git push --all origin
-//Надіслати гілку у віддалений репозиторій, щоб інші розробники могли з нею працювати:	git push origin 
+//Надіслати гілку у віддалений репозиторій, щоб інші розробники могли з нею працювати:	git push origin
