@@ -20,7 +20,8 @@ const arr = [1, 2, 5, 4, 6];
 // const products = str.split(", ")
 // products.sort();
 // console.log(products.join('; '));
-arr.sort(compareNum)
+
+arr.sort(compareNum);
 console.log(arr);
 
 function compareNum(a, b) {
